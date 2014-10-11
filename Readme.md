@@ -7,7 +7,7 @@ Roomservice
 <manifest>
   <project name="Myself5/android_device_samsung_i9100-1" path="device/samsung/i9100" remote="github" revision="AOSP" />
   <project name="OmniRom/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revision="android-4.4" />
-  <project name="omnirom/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="android-4.4" />
+  <project name="OmniRom/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="android-4.4" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-11.0" />
   <project name="OmniRom/android_hardware_samsung" path="hardware/samsung" remote="github" revision="android-4.4" />
   <project name="OmniRom/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="android-4.4" />
